@@ -6870,6 +6870,7 @@ input, select, textarea {
 			overflow: hidden;
 			width: 22.5rem;
 			max-width: 75vw;
+			border-right: 5px solid white;
 		}
 
 			.gallery.style2 article .image {
