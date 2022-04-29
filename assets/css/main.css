@@ -6485,6 +6485,7 @@ input, select, textarea {
 			overflow: hidden;
 			position: relative;
 			width: 25%;
+			margin: 0px 5px;
 		}
 
 			.gallery.style1 article .image {
